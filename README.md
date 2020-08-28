@@ -31,6 +31,14 @@ Por otro el lado, el discriminador presenta una estructura similar a un encoder 
 
 >I(256x256x6) - C64(128x128x64) - C128(64x64x128) - C256(32x32x256) - P(34x34x512) - C#512(31x31x512) - P(33x33x512) - C#1(30x30x1)
 
+###### Explicación nomenclatura
+
+> C: Capa de convolución o de deconvolución según el caso con una cierta cantidad de filtros.
+  CD: Capa C con la adición de un Dropout con probabilidad 0,5.
+  I: Capa que apila una imagen de entrada con imagen objetivo (real o ficticia generada por el generador)
+  P: Capa padding que incrementa dimensión en dos
+  C#: Capa de convolución con stride igual a 1
+
 
 
 #### 3. Resultados
