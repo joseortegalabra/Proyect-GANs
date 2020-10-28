@@ -2,7 +2,7 @@
 
 [Link informe completo](https://drive.google.com/file/d/1S94INBuDNJGI3bO0whVZpmp7f5e6UTlF/view?usp=sharing)
 
-[Link poster del trabajo_Inglés](https://drive.google.com/file/d/1KcOA67vkNROQczDyfhLlKvlfStsnO0OM/view?usp=sharing)
+[Link poster del trabajo_Inglés](https://drive.google.com/file/d/1RoU5oxULkZ9UXf4zdHnesjoVlm2RsDth/view?usp=sharing)
 
 
 ### 1. Resumen
